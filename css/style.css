@@ -189,7 +189,7 @@ a:hover {
 	text-indent: -9999em;
 	border-radius: 50%;
 	/* background-position: center; */
-	background: url(../images/img/logo.jpeg) no-repeat;
+	background: url(../images/best_legacy_logo.png) no-repeat;
 	background-size: contain;
 	position: relative;
 	z-index: 3;
@@ -661,7 +661,7 @@ h1.single{
 }
 
 .slider .bxslider li {
-	background: url(../images/img/cb1.jpeg) no-repeat 50% 50%;
+	background: url(../images/imgs/cb1.jpeg) no-repeat 50% 50%;
 	background-size: cover;
 	height: 600px;
 	position: relative;
@@ -791,7 +791,7 @@ h1.single{
 
 .posts .info h3 {
 	overflow: hidden;
-	color: #000167;
+	color: #073e90;
 	font-family: 'BebasNeue';
 	font-size: 30px;
 	line-height: 34px;
@@ -803,12 +803,12 @@ h1.single{
 
 .news {
 	overflow: hidden;
-	background: #39373ad5;
+	background: #00ccff;
 	padding: 57px 0 70px 0;
 }
 .header-box {
 	overflow: hidden;
-	background: #000167;
+	background: #ff0000;
 	padding: 15px 0 15px 0;	
 	color: #fff;
 }
@@ -1019,7 +1019,7 @@ a.btn.blue,
 
 .info-request {
 	border-radius: 4px;
-	background: #ba682e url(../images/ico_information.png) no-repeat 35px 35px;
+	background: #00ccff url(../images/ico_information.png) no-repeat 35px 35px;
 	display: block;
 	padding: 0 0 0 138px;
 	margin: 0 15px 100px 15px;
@@ -1042,7 +1042,7 @@ a.btn.blue,
 	display: block;
 	float: right;
 	height: 100%;
-	background: #2c2b29 url(../images/bg_arrow_information.png) no-repeat 50% 50%;
+	background: #ff0000 url(../images/bg_arrow_information.png) no-repeat 50% 50%;
 }
 
 .info-request .title {
@@ -1078,7 +1078,7 @@ a.btn.blue,
 
 #footer {
 	clear: both;
-	background: #000167 url(../images/bg_white_arrow.png) no-repeat 50% 0;
+	background: #00ccff url(../images/bg_white_arrow.png) no-repeat 50% 0;
 	overflow: hidden;
 	padding: 91px 0 0 0;
 	font-size: 14px;
@@ -1769,7 +1769,7 @@ a.btn.blue,
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	
 	#logo {
-		background-image: url(../images/logo.png);
+		background-image: url(../images/best_legacy_logo.png);
 		background-size: 121px 134px;
 	}
 	.about-text{
@@ -2100,7 +2100,7 @@ a.btn.blue,
 	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	
 		#logo {
-			background-image: url(../images/logo.png);
+			background-image: url(../images/best_legacy_logo.png);
 			background-size: 90px 100px;
 		}
 	}
