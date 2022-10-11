@@ -808,7 +808,7 @@ h1.single{
 }
 .header-box {
 	overflow: hidden;
-	background: #ff0000;
+	background: #e2252b;
 	padding: 15px 0 15px 0;	
 	color: #fff;
 }
@@ -1042,7 +1042,7 @@ a.btn.blue,
 	display: block;
 	float: right;
 	height: 100%;
-	background: #ff0000 url(../images/bg_arrow_information.png) no-repeat 50% 50%;
+	background: #e2252b url(../images/bg_arrow_information.png) no-repeat 50% 50%;
 }
 
 .info-request .title {
