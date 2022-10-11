@@ -803,7 +803,7 @@ h1.single{
 
 .news {
 	overflow: hidden;
-	background: #00ccff;
+	background: #8ccef0;
 	padding: 57px 0 70px 0;
 }
 .header-box {
@@ -1019,7 +1019,7 @@ a.btn.blue,
 
 .info-request {
 	border-radius: 4px;
-	background: #00ccff url(../images/ico_information.png) no-repeat 35px 35px;
+	background: #8ccef0 url(../images/ico_information.png) no-repeat 35px 35px;
 	display: block;
 	padding: 0 0 0 138px;
 	margin: 0 15px 100px 15px;
@@ -1078,7 +1078,7 @@ a.btn.blue,
 
 #footer {
 	clear: both;
-	background: #00ccff url(../images/bg_white_arrow.png) no-repeat 50% 0;
+	background: #8ccef0 url(../images/bg_white_arrow.png) no-repeat 50% 0;
 	overflow: hidden;
 	padding: 91px 0 0 0;
 	font-size: 14px;
